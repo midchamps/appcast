@@ -3,10 +3,10 @@
   <channel>
     <title>Coach on App Updates</title>
     <item>
-      <title>Version 1.15.0</title>
+      <title>Version 0.0.1</title>
       <description>Minor updates and improvements.</description>
       <enclosure url="https://testflight.apple.com/join/Yj79Av7E"
-        sparkle:version="1.15.0" sparkle:os="ios" />
+        sparkle:version="0.0.1" sparkle:os="ios" />
     </item>
   </channel>
 </rss>
