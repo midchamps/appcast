@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Coach on App Updates</title>
-    <item>
-      <title>Version 0.0.4</title>
-      <description>Test</description>
-      <enclosure url="https://testflight.apple.com/join/Yj79Av7E"
-        sparkle:version="0.0.4" sparkle:os="ios" />
-    </item>
-  </channel>
+    <channel>
+        <title>Coach on App Updates</title>
+        <item>
+            <title>Version 0.0.4</title>
+            <description>Test update</description>
+            <enclosure url="https://testflight.apple.com/join/Yj79Av7E" sparkle:version="0.0.4" sparkle:os="ios" />
+        </item>
+    </channel>
 </rss>
