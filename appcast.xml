@@ -3,9 +3,9 @@
     <channel>
         <title>Coach on App Updates</title>
         <item>
-            <title>Version 0.0.4</title>
+            <title>Version 0.0.3</title>
             <description>Test update</description>
-            <enclosure url="itms-beta://" sparkle:version="0.0.4" sparkle:os="ios" />
+            <enclosure url="itms-beta://" sparkle:version="0.0.3" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
